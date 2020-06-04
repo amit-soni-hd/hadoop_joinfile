@@ -1,0 +1,4 @@
+org/example/hadoop/joinfile/JoinFileReducer.class
+org/example/hadoop/joinfile/JoinWritable.class
+org/example/hadoop/joinfile/JoinFileDriver.class
+org/example/hadoop/joinfile/JoinFileMapper.class
